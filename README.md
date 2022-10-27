@@ -1,1 +1,1 @@
-# JSX-React-Components-
+# JSX-react-component
